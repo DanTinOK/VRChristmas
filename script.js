@@ -29,7 +29,7 @@ var models = [
         scale: '12.5 12.5 12.5',
         info: 'snowman',
         rotation: '0 180 0',
-        position: '-21 9 -106'
+        //position: '-21 9 -106'
     },
     {
         url: './assets/ChristmasTree/model.gltf',
@@ -50,7 +50,7 @@ var models = [
         info: 'Santa',
     },
     {
-        url: './assets/ChristmasTree2/model.gltf',
+        url: './assets/ChristmasTree2/model.gltf', 
         scale: '10.08 10.08 10.08',
         rotation: '0 180 0',
         info: 'Another Tree',
